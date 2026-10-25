@@ -1,0 +1,5 @@
+# Jetson Orin / Nano runtime dependencies (no PyTorch or Ultralytics needed).
+# Install the onnxruntime-gpu wheel built for your JetPack version from NVIDIA Jetson Zoo:
+# https://elinux.org/Jetson_Zoo#ONNX_Runtime
+numpy>=1.23.0
+opencv-python>=4.8.0

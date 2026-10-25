@@ -1,0 +1,13 @@
+.venv/
+models/*.pt
+models/*.onnx
+models/*.engine
+videos/
+outputs/
+dist/
+trt_cache/
+.agy-staff/
+__pycache__/
+*.pyc
+.ultralytics/
+.cache/
